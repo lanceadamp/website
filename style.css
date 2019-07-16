@@ -197,3 +197,11 @@ form {
   font-size: 24px;
   /* float: left; */
 }
+
+/* @media screen and (max-width:800px) {
+  .left, .main, .right {
+    width:100%;  */
+
+
+
+    /* device-width */
